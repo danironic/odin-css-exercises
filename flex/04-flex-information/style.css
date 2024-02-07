@@ -36,3 +36,15 @@ img {
   display: flex;
   gap: 52px;
 }
+
+.plant {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+}
+
+.text {
+  flex-wrap: wrap;
+  text-align: center;
+}
