@@ -71,3 +71,8 @@ button.cancel {
   color: royalblue;
 }
 
+.modal-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
