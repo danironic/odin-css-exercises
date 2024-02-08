@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+
 body {
   height: 100vh;
   margin: 0;
@@ -51,7 +52,7 @@ a {
 .left-links,
 .right-links {
   display: flex;
-  gap: 12px;
+  gap: 14px;
 }
 
 .left-links {
@@ -60,4 +61,8 @@ a {
 
 .right-links {
   margin-right: 20px;
+}
+
+.footer {
+  background-color: #eee;
 }
